@@ -1,0 +1,25 @@
+{
+	"status": 1,
+	"onshoredata": [
+		{
+			"ctrycode": "CN",
+			"onshore": "Y"
+		},
+		{
+			"ctrycode": "CN",
+			"onshore": "N"
+		},
+		{
+			"ctrycode": "IN",
+			"onshore": "N"
+		},
+		{
+			"ctrycode": "IN",
+			"onshore": "Y"
+		},
+		{
+			"ctrycode": "VN",
+			"onshore": "N"
+		}
+    ]
+}
